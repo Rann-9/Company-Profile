@@ -169,6 +169,7 @@ p {
     background-color: #1F1F21;
     display: flex;
     align-items: center;
+    justify-content: center;
 }
 
 .explore-content {
@@ -177,7 +178,6 @@ p {
     color: whitesmoke;
     display: flex;
     align-items: center;
-    margin-left: 250px;
     flex-direction: column;
 }
 
